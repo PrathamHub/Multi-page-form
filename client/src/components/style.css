@@ -1,0 +1,78 @@
+
+
+.container {
+    margin-bottom: 20px;
+
+  }
+  
+  .container label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .container input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  .second-container{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  .subcontainer{
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+  }
+.subcontainer input{
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+  /* .second-container {
+    margin-bottom: 20px;
+  }
+  
+  .second-container label {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .second-container input[type="text"],
+  .second-container input[type="number"] {
+    width: 50%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .second-container input[type="radio"] {
+    display: inline-block;
+    margin-right: 5px;
+  } */
+
+  .third-container {
+    margin-bottom: 20px;
+  }
+  
+  .third-container label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  .third-container input{
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  .third-container input[type="checkbox"] {
+    margin-right: 5px;
+  }
+  
+  
